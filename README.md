@@ -15,6 +15,6 @@
 ![Ingame view of the player exploding into bits after hitting the spike for the second time](./memorabilia/game_death-explosion.png)
 ![Ingame view of the game over screen, with bits of the player spread everywhere in the background. "Press the enter key to continue!"](./memorabilia/game_you_died.png)
 
-###### I wanted to make a game where you roll around
-###### When the player touches a spike they bounce the first time and explode/die the second time
+###### I wanted to make a pseudo 3D game where you roll around
+###### (When the player touches a spike they bounce the first time and explode/die the second time)
 ###### I didn't come much further than this...
